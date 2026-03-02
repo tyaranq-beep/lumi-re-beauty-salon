@@ -8,6 +8,15 @@ import ScrollReveal from '@/components/ui/ScrollReveal';
 export const metadata: Metadata = {
   title: 'YWP Beauty | 心地よい空間で叶える、理想のヘアスタイル',
   description: '熟練のスタイリストが一人ひとりに寄り添い、魅力を最大限に引き出します。地域に愛される、くつろぎのプライベートサロン。',
+  icons: {
+    icon: [
+      { url: '/favicon.ico?v=6' },
+      { url: '/favicon-32.png?v=6', sizes: '32x32', type: 'image/png' },
+    ],
+    apple: [
+      { url: '/favicon-192.png?v=6', sizes: '192x192', type: 'image/png' },
+    ],
+  },
 };
 
 export default function RootLayout({
