@@ -1,1 +1,43 @@
-浩潰瑲琠灹⁥⁻敍慴慤慴素映潲⁭渢硥≴഻椊灭牯⁴⁻湉整Ⱳ倠慬晹楡彲楄灳慬⁹⁽牦浯∠敮瑸是湯⽴潧杯敬㬢਍浩潰瑲∠⼮汧扯污⹳獣≳഻ഊ挊湯瑳椠瑮牥㴠䤠瑮牥笨਍†畳獢瑥㩳嬠氢瑡湩崢ബ 瘠牡慩汢㩥∠ⴭ潦瑮猭湡≳ബ紊㬩਍਍潣獮⁴汰祡慦物㴠倠慬晹楡彲楄灳慬⡹ൻ 猠扵敳獴›≛慬楴≮ⱝ਍†慶楲扡敬›ⴢ昭湯⵴敳楲≦ബ紊㬩਍਍硥潰瑲挠湯瑳洠瑥摡瑡㩡䴠瑥摡瑡⁡‽ൻ 琠瑩敬›䰢䵕썉劈⁅⁼敂畡祴匠污湯Ⱒ਍†敤捳楲瑰潩㩮਍††ꊂ苣뮂苣鞁臣겞雩ꮁ뿥銂軦肂ꯩ膓돨ꪁ菣벃菣벃苣ꆃ菣뢂臣隃菣뎃菣꺁룤貕ꛨ銂볤袁臣ꒁ胣肸꣨ꞁ胣ꪁ臣鎁臣ꮁꇨ辁臣趁臣趀臣蒁臣뎂菣뮂菣袃苣躘ꋧꮁꓧ鞁臣蒁苣꺁臣릉뻥ꞁ臣芀Ⱒ਍㭽਍਍硥潰瑲搠晥畡瑬映湵瑣潩⁮潒瑯慌潹瑵笨਍†档汩牤湥ബ紊›ൻ 挠楨摬敲㩮删慥瑣刮慥瑣潎敤഻紊 ൻ 爠瑥牵⁮ന †㰠瑨汭氠湡㵧樢≡挠慬獳慎敭笽①楻瑮牥瘮牡慩汢絥␠灻慬晹楡⹲慶楲扡敬恽㹽਍†††戼摯൹ †††挠慬獳慎敭∽潦瑮猭湡⁳整瑸猭潴敮㠭〰戠ⵧ瑳湯ⵥ〵愠瑮慩楬獡摥猠汥捥楴湯戺ⵧ瑳湯ⵥ〲∰਍††††畳灰敲獳祈牤瑡潩坮牡楮杮਍†††ാ †††笠档汩牤湥ൽ ††㰠戯摯㹹਍††⼼瑨汭ാ ⤠഻紊਍
+import type { Metadata } from 'next';
+import './globals.css';
+import Header from '@/components/layout/Header';
+import Footer from '@/components/layout/Footer';
+import DemoBanner from '@/components/ui/DemoBanner';
+import ScrollReveal from '@/components/ui/ScrollReveal';
+
+export const metadata: Metadata = {
+  title: 'YWP Beauty | 心地よい空間で叶える、理想のヘアスタイル',
+  description: '熟練のスタイリストが一人ひとりに寄り添い、魅力を最大限に引き出します。地域に愛される、くつろぎのプライベートサロン。',
+  icons: {
+    icon: '/favicon.png',
+  },
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="ja">
+      {/* 
+        Note: React 19 / Next 15 with Tailwind 4.
+        Add font links here or in CSS.
+      */}
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,300;1,400;1,600&family=Noto+Sans+JP:wght@400;500;700;900&family=Noto+Serif+JP:wght@400;600;700;900&display=swap" rel="stylesheet" />
+      </head>
+      <body className="font-sans text-stone-900 bg-stone-100 antialiased pt-[76px] lg:pt-[84px] min-h-screen flex flex-col">
+        <ScrollReveal />
+        <Header />
+        <main className="flex-1">
+          {children}
+        </main>
+        <DemoBanner industry="美容室・サロン" />
+        <Footer />
+      </body>
+    </html>
+  );
+}

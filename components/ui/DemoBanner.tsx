@@ -1,1 +1,42 @@
-產敳挠楬湥≴഻椊灭牯⁴敒捡ⱴ笠甠敳瑓瑡ⱥ甠敳晅敦瑣素映潲⁭爧慥瑣㬧਍਍硥潰瑲搠晥畡瑬映湵瑣潩⁮敄潭慂湮牥笨椠摮獵牴⁹㩽笠椠摮獵牴㩹猠牴湩⁧⥽笠਍††潣獮⁴楛噳獩扩敬‬敳䥴噳獩扩敬⁝‽獵卥慴整昨污敳㬩਍††潣獮⁴楛䍳潬敳Ɽ猠瑥獉汃獯摥⁝‽獵卥慴整昨污敳㬩਍਍††獵䕥晦捥⡴⤨㴠‾ൻ †††挠湯瑳琠浩牥㴠猠瑥楔敭畯⡴⤨㴠‾敳䥴噳獩扩敬琨畲⥥‬㔱〰㬩਍††††敲畴湲⠠ 㸽挠敬牡楔敭畯⡴楴敭⥲഻ †素‬嵛㬩਍਍††晩⠠椡噳獩扩敬簠⁼獩汃獯摥 敲畴湲渠汵㭬਍਍††敲畴湲⠠਍††††搼癩挠慬獳慎敭∽楦數⁤潢瑴浯㐭爠杩瑨㐭氠晥⵴‴摭氺晥⵴畡潴洠㩤⵷畦汬洠㩤慭⵸⵷㑛〲硰⁝⵺ㅛ〰⁝湡浩瑡ⵥ湩映摡ⵥ湩猠楬敤椭⵮牦浯戭瑯潴⵭‸畤慲楴湯㜭〰㸢਍††††††搼癩挠慬獳慎敭∽杢眭楨整㤯‵慢正牤灯戭畬⵲摭猠慨潤⵷せ㡟硰㍟瀰彸杲⡢ⰰⰰⰰ⸰㈱崩戠牯敤⁲潢摲牥札慲⵹〲‰潲湵敤ⵤ砲⁬⵰‵牰ㄭ′敲慬楴敶漠敶晲潬⵷楨摤湥㸢਍††††††††戼瑵潴൮ †††††††††漠䍮楬正笽⤨㴠‾敳䥴䍳潬敳⡤牴敵紩਍††††††††††汣獡乳浡㵥愢獢汯瑵⁥潴⵰‴楲桧⵴‴整瑸札慲⵹〴‰潨敶㩲整瑸札慲⵹〷‰杢札慲⵹〵栠癯牥戺ⵧ牧祡ㄭ〰爠畯摮摥昭汵⁬⵰⸱‵牴湡楳楴湯挭汯牯≳਍††††††††††牡慩氭扡汥∽雩颁苣䖁਍††††††††ാ †††††††††㰠癳⁧浸湬㵳栢瑴㩰⼯睷⹷㍷漮杲㈯〰⼰癳≧眠摩桴∽㘱•敨杩瑨∽㘱•楶睥潂㵸〢〠㈠‴㐲•楦汬∽潮敮•瑳潲敫∽畣牲湥䍴汯牯•瑳潲敫楗瑤㵨㈢•瑳潲敫楌敮慣㵰爢畯摮•瑳潲敫楌敮潪湩∽潲湵≤㰾慰桴搠∽ㅍ‸‶‶㠱•㸯瀼瑡⁨㵤洢‶‶㈱ㄠ∲⼠㰾猯杶ാ †††††††㰠戯瑵潴㹮਍††††††††搼癩挠慬獳慎敭∽汦硥朠灡㐭㸢਍††††††††††搼癩挠慬獳慎敭∽瑭ㄭ猠牨湩⵫‰整瑸愭扭牥㔭〰㸢਍††††††††††††猼杶砠汭獮∽瑨灴⼺眯睷眮⸳牯⽧〲〰猯杶•楷瑤㵨㈢∴栠楥桧㵴㈢∴瘠敩䉷硯∽‰‰㐲㈠∴映汩㵬渢湯≥猠牴歯㵥挢牵敲瑮潃潬≲猠牴歯坥摩桴∽∲猠牴歯䱥湩捥灡∽潲湵≤猠牴歯䱥湩橥楯㵮爢畯摮㸢挼物汣⁥硣∽㈱•祣∽㈱•㵲ㄢ∰⼠㰾慰桴搠∽ㅍ′㘱⵶∴⼠㰾慰桴搠∽ㅍ′核〮∱⼠㰾猯杶ാ †††††††††㰠搯癩ാ †††††††††㰠楤㹶਍††††††††††††格‴汣獡乳浡㵥昢湯⵴潢摬琠硥⵴牧祡㤭〰洠ⵢ′整瑸猭⁭敬摡湩ⵧ楴桧≴ാ †††††††††††††뮀臣ꆁ苣䖁楻摮獵牴絹郥醁臣膃荅떂苣袃臣膁൅ †††††††††††㰠栯㸴਍††††††††††††搼癩挠慬獳慎敭∽整瑸砭⁳整瑸札慲⵹〶‰灳捡ⵥ⵹′敬摡湩ⵧ敲慬數⁤潦瑮洭摥畩≭ാ †††††††††††††㰠㹰迧ꢜ臣膃艅ꒂ菣膂ꝅ䖁臣馃臣릂臣肸뻤ꞁ臣芀껥鮚臣뚈뷤ꞁ臣膀볤궥꟦䖁菣ꦃ菣覃苣ꆃ菣뢂臣袐苣鮁臣㲦瑳潲杮閃菣ꮂ苣뾂菣ꒂ苣㲺猯牴湯㹧臣钁迦鮾臣龁臣뺁臣膀⽅㹰਍††††††††††††††瀼뺁臣膀獅牴湯㹧䥌䕎胩몐⼼瑳潲杮膂獅牴湯㹧潎楴湯苣ꢔ臣䖁龁诧ꪇ臣ꪇ该뒛雦랂苣膃荅㲠猯牴湯㹧臣ꦁ胣궥该릊軧䖁隌菣뎂苣袃觥鮸臣龁苣꺁ꯩꚺ臣龩臨붿諥ꮁ苣钟믨ꮁ꿥鲿臣ꚁ臣誂臣馁胣䖁瀯ാ †††††††††††㰠搯癩ാ †††††††††㰠搯癩ാ †††††††㰠搯癩ാ †††††㰠搯癩ാ †††㰠搯癩ാ †⤠഻紊਍
+"use client";
+import React, { useState, useEffect } from 'react';
+
+export default function DemoBanner({ industry }: { industry: string }) {
+    const [isVisible, setIsVisible] = useState(false);
+    const [isClosed, setIsClosed] = useState(false);
+
+    useEffect(() => {
+        const timer = setTimeout(() => setIsVisible(true), 1500);
+        return () => clearTimeout(timer);
+    }, []);
+
+    if (!isVisible || isClosed) return null;
+
+    return (
+        <div className="fixed bottom-4 right-4 left-4 md:left-auto md:w-full md:max-w-[420px] z-[100] animate-in fade-in slide-in-from-bottom-8 duration-700">
+            <div className="bg-white/95 backdrop-blur-md shadow-[0_8px_30px_rgb(0,0,0,0.12)] border border-gray-200 rounded-2xl p-5 pr-12 relative overflow-hidden">
+                <button
+                    onClick={() => setIsClosed(true)}
+                    className="absolute top-4 right-4 text-gray-400 hover:text-gray-700 bg-gray-50 hover:bg-gray-100 rounded-full p-1.5 transition-colors"
+                    aria-label="閉じる"
+                >
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M18 6 6 18" /><path d="m6 6 12 12" /></svg>
+                </button>
+                <div className="flex gap-4">
+                    <div className="mt-1 shrink-0 text-amber-500">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="10" /><path d="M12 16v-4" /><path d="M12 8h.01" /></svg>
+                    </div>
+                    <div>
+                        <h4 className="font-bold text-gray-900 mb-2 text-sm leading-tight">
+                            ※こちらは{industry}向けのデモサイトです
+                        </h4>
+                        <div className="text-xs text-gray-600 space-y-2 leading-relaxed font-medium">
+                            <p>現在のデザインや構成はベースの一例です。実際の制作では、企業様のブランドイメージに合わせて<strong>フルカスタマイズ</strong>でご提供いたします。</p>
+                            <p>また、<strong>LINE連携</strong>や<strong>Notionを用いた独自の自動更新システム</strong>など、業務効率化・コスト削減のための高度な機能追加にも柔軟に対応しております。</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    );
+}

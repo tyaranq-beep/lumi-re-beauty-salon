@@ -1,1 +1,102 @@
-產敳挠楬湥≴഻ഊ椊灭牯⁴⁻獵卥慴整素映潲⁭爧慥瑣㬧਍浩潰瑲䰠湩⁫牦浯✠敮瑸氯湩❫഻椊灭牯⁴⁻獵健瑡湨浡⁥⁽牦浯✠敮瑸港癡杩瑡潩❮഻ഊ攊灸牯⁴敤慦汵⁴畦据楴湯䠠慥敤⡲ ൻ †挠湯瑳嬠獩潍楢敬敍畮灏湥‬敳䥴䵳扯汩䵥湥併数嵮㴠甠敳瑓瑡⡥慦獬⥥഻ †挠湯瑳瀠瑡湨浡⁥‽獵健瑡湨浡⡥㬩਍਍††潣獮⁴慮䱶湩獫㴠嬠਍††††⁻慬敢㩬✠맧馸菣鶹ꏯ➰‬牨晥›⼧‧ⱽ਍††††⁻慬敢㩬✠軨몌뷯궽鳨뮃뷯립Ⱗ栠敲㩦✠猯牥楶散❳素ബ †††笠氠扡汥›膭뷯뺟뷯ꂎ胥뺽매뮃룧膛뷯ꊽ껨ꖀ菣ꊞ뷯➰‬牨晥›⼧牰橯捥獴‧ⱽ਍††††⁻慬敢㩬✠軨芤뷯뺽귨ꖺ菣➻‬牨晥›⼧扡畯❴素ബ †崠഻ഊ †爠瑥牵⁮ന †††㰠敨摡牥挠慬獳慎敭∽楦數⁤潴⵰‰⵷畦汬稠㔭‰杢眭楨整戠牯敤⵲⁢潢摲牥猭潴敮㤭〰猠慨潤⵷せ㑟硰た牟执⡡㐴㌬ⰰ㈲〬ㄮ崩㸢਍††††††搼癩挠慬獳慎敭∽慭⵸⵷砷⁬硭愭瑵⁯硰㘭映敬⁸番瑳晩⵹敢睴敥⁮瑩浥⵳散瑮牥瀠⵹∴ാ †††††††笠⨯䰠杯⁯牁慥⨠累਍††††††††䰼湩⁫牨晥∽∯挠慬獳慎敭∽汦硥映敬⵸潣≬ാ †††††††††㰠灳湡挠慬獳慎敭∽整瑸㈭汸映湯⵴敳楲⁦潦瑮戭慬正琠硥⵴瑳湯ⵥ〹‰牴捡楫杮琭杩瑨㸢਍††††††††††††룧뮃胂菣鞁맧궽맧뎽਍††††††††††⼼灳湡ാ †††††††††㰠灳湡挠慬獳慎敭∽整瑸砭⁳潦瑮戭汯⁤整瑸猭潴敮㠭〰洠⵴∱ാ †††††††††††ꢝ뷯鎝뫦꾽菣ꦍ맧뮽룧뮃胂菣뢽苣뮃迨誸裢몸菣뮃胩뢽髩뮃뷯颁鏥ඨ †††††††††㰠猯慰㹮਍††††††††⼼楌歮ാഊ †††††††笠⨯䐠獥瑫灯䴠湥⁵⼪ൽ †††††††㰠楤⁶汣獡乳浡㵥栢摩敤⁮杬昺敬⁸瑩浥⵳散瑮牥朠灡㠭㸢਍††††††††††渼癡挠慬獳慎敭∽汦硥朠灡㘭㸢਍††††††††††††湻癡楌歮⹳慭⡰椨整⥭㴠‾ന †††††††††††††㰠楌歮਍††††††††††††††††敫㵹楻整⹭慬敢絬਍††††††††††††††††牨晥笽瑩浥栮敲給਍††††††††††††††††汣獡乳浡㵥恻整瑸猭⁭潦瑮戭汯⁤牴湡楳楴湯挭汯牯⁳潨敶㩲整瑸猭潴敮㘭〰␠灻瑡湨浡⁥㴽‽瑩浥栮敲⁦‿琧硥⵴瑳湯ⵥ〹‰潢摲牥戭㈭戠牯敤⵲瑳湯ⵥ〹✰㨠✠整瑸猭潴敮㠭〰ധ †††††††††††††††††素絠਍††††††††††††††ാ †††††††††††††††笠瑩浥氮扡汥ൽ †††††††††††††㰠䰯湩㹫਍††††††††††††⤩ൽ †††††††††㰠港癡ാഊ †††††††††㰠楤⁶汣獡乳浡㵥昢敬⁸瑩浥⵳散瑮牥朠灡㘭洠⵬‴潢摲牥氭㈭戠牯敤⵲瑳湯ⵥ〱‰汰㘭㸢਍††††††††††††搼癩挠慬獳慎敭∽汦硥映敬⵸潣⁬瑩浥⵳湥≤ാ †††††††††††††㰠灳湡挠慬獳慎敭∽整瑸嬭〱硰⁝潦瑮戭汯⁤整瑸猭潴敮㠭〰戠ⵧ瑳湯ⵥ〱‰硰㈭瀠⵹‱扭ㄭ㸢룧膼듥Ꞛ뷯몸뷯몸뷯몸髧貶髩뮃猯慰㹮਍††††††††††††††愼栠敲㵦琢汥〺㈱ⴰ塘ⵘ塘≘挠慬獳慎敭∽整瑸砭⁬潦瑮戭慬正琠硥⵴汳瑡ⵥ〷∰ാ †††††††††††††††麁裥₰㄰〲堭塘堭塘਍††††††††††††††⼼㹡਍††††††††††††⼼楤㹶਍††††††††††††䰼湩൫ †††††††††††††栠敲㵦⼢潣瑮捡≴਍††††††††††††††汣獡乳浡㵥戢ⵧ瑳湯ⵥ〹‰整瑸眭楨整瀠⵸‶祰㌭映湯⵴潢摬戠牯敤⵲⁢潢摲牥猭潴敮㤭〰愠瑣癩㩥潢摲牥戭〭愠瑣癩㩥牴湡汳瑡ⵥ⵹硰琠慲獮瑩潩⵮污≬਍††††††††††††ാ †††††††††††††龾뷯膭郥肙髩鞋뷯ꪘ뷯ඊ †††††††††††㰠䰯湩㹫਍††††††††††⼼楤㹶਍††††††††⼼楤㹶਍਍††††††††⽻‪潍楢敬吠杯汧⁥⼪ൽ †††††††㰠畢瑴湯਍††††††††††汣獡乳浡㵥氢㩧楨摤湥琠硥⵴瑳湯ⵥ〹‰⵰′潦瑮戭汯⁤杢猭潴敮ㄭ〰戠牯敤⵲′潢摲牥猭潴敮㤭〰ഢ †††††††††漠䍮楬正笽⤨㴠‾敳䥴䵳扯汩䵥湥併数⡮椡䵳扯汩䵥湥併数⥮ൽ †††††††††愠楲ⵡ慬敢㵬鶹뷯鶹매캝鶹뷯⊼਍††††††††ാ †††††††††笠獩潍楢敬敍畮灏湥㼠✠ꯩꢳꟂ맧뮃곧뮃㨠✠맧ꆽ맧鶹韎맧벽颬뷯➰ൽ †††††††㰠戯瑵潴㹮਍††††††⼼楤㹶਍਍††††††⽻‪潍楢敬䴠湥⁵癏牥慬⁹⼪ൽ †††††笠獩潍楢敬敍畮灏湥☠…ന †††††††㰠楤⁶汣獡乳浡㵥氢㩧楨摤湥愠獢汯瑵⁥潴⵰畦汬氠晥⵴‰⵷畦汬戠ⵧ桷瑩⁥潢摲牥戭戠牯敤⵲瑳湯ⵥ〹‰祰㐭瀠⵸‶汦硥映敬⵸潣⁬慧⵰‴桳摡睯砭≬ാ †††††††††笠慮䱶湩獫洮灡⠨瑩浥 㸽⠠਍††††††††††††䰼湩൫ †††††††††††††欠祥笽瑩浥氮扡汥ൽ †††††††††††††栠敲㵦楻整⹭牨晥ൽ †††††††††††††挠慬獳慎敭∽整瑸猭潴敮㤭〰琠硥⵴杬映湯⵴潢摬瀠⵹″潢摲牥戭㈭戠牯敤⵲瑳湯ⵥ〱∰਍††††††††††††††湯汃捩㵫⡻ 㸽猠瑥獉潍楢敬敍畮灏湥昨污敳紩਍††††††††††††ാ †††††††††††††笠瑩浥氮扡汥ൽ †††††††††††㰠䰯湩㹫਍††††††††††⤩ൽ †††††††††㰠ൡ †††††††††††栠敲㵦琢汥〺㈱ⴰ塘ⵘ塘≘਍††††††††††††汣獡乳浡㵥昢敬⁸瑩浥⵳散瑮牥樠獵楴祦挭湥整⁲慧⵰′⵷畦汬瀠⵹‴瑭㐭戠ⵧ瑳湯ⵥ〱‰整瑸猭慬整㜭〰映湯⵴汢捡⁫潢摲牥㈭戠牯敤⵲汳瑡ⵥ〷∰਍††††††††††ാ †††††††††††麁裥₰㄰〲堭塘堭塘몸뷯꺫뷯Ꞛ뷯몸郥讽਍††††††††††⼼㹡਍††††††††††䰼湩൫ †††††††††††栠敲㵦⼢潣瑮捡≴਍††††††††††††汣獡乳浡㵥眢昭汵⁬祰㐭戠ⵧ瑳湯ⵥ〹‰整瑸眭楨整映湯⵴潢摬琠硥⵴散瑮牥戠牯敤⵲⁢潢摲牥猭潴敮㤭〰愠瑣癩㩥潢摲牥戭〭愠瑣癩㩥牴湡汳瑡ⵥ⵹硰ഢ †††††††††††漠䍮楬正笽⤨㴠‾敳䥴䵳扯汩䵥湥併数⡮慦獬⥥ൽ †††††††††㸠਍††††††††††††뻨ꆽ귨뚐駢閚诧ꦽ飩誽맧뮽룧꺚뛥늚菣ර †††††††††㰠䰯湩㹫਍††††††††⼼楤㹶਍††††††紩਍††††⼼敨摡牥ാ †⤠഻紊਍
+"use client";
+
+import { useState } from 'react';
+import Link from 'next/link';
+import { usePathname } from 'next/navigation';
+
+export default function Header() {
+    const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+    const pathname = usePathname();
+
+    const navLinks = [
+        { label: 'ホーム', href: '/' },
+        { label: '事業内容', href: '/services' },
+        { label: '施工事例・お客様の声', href: '/projects' },
+        { label: '会社案内', href: '/about' },
+    ];
+
+    return (
+        <header className="fixed top-0 w-full z-50 bg-white border-b border-stone-900 shadow-[0_4px_0_rgba(44,30,22,0.1)]">
+            <div className="max-w-7xl mx-auto px-6 flex justify-between items-center py-4">
+                {/* Logo Area */}
+                <Link href="/" className="flex flex-col">
+                    <span className="text-2xl font-serif font-black text-stone-900 tracking-tight">
+                        〇〇サロン
+                    </span>
+                    <span className="text-xs font-bold text-stone-800 mt-1">
+                        地域密着・〇〇市の住まいの相談窓口
+                    </span>
+                </Link>
+
+                {/* Desktop Menu */}
+                <div className="hidden lg:flex items-center gap-8">
+                    <nav className="flex gap-6">
+                        {navLinks.map((item) => (
+                            <Link
+                                key={item.label}
+                                href={item.href}
+                                className={`text-sm font-bold transition-colors hover:text-stone-600 ${pathname === item.href ? 'text-stone-900 border-b-2 border-stone-900' : 'text-stone-800'
+                                    }`}
+                            >
+                                {item.label}
+                            </Link>
+                        ))}
+                    </nav>
+
+                    <div className="flex items-center gap-6 ml-4 border-l-2 border-stone-100 pl-6">
+                        <div className="flex flex-col items-end">
+                            <span className="text-[10px] font-bold text-stone-800 bg-stone-100 px-2 py-1 mb-1">お電話でのご相談</span>
+                            <a href="tel:0120-XXX-XXX" className="text-xl font-black text-slate-700">
+                                📞 0120-XXX-XXX
+                            </a>
+                        </div>
+                        <Link
+                            href="/contact"
+                            className="bg-stone-900 text-white px-6 py-3 font-bold border-b border-stone-900 active:border-b-0 active:translate-y-px transition-all"
+                        >
+                            無料お見積り
+                        </Link>
+                    </div>
+                </div>
+
+                {/* Mobile Toggle */}
+                <button
+                    className="lg:hidden text-stone-900 p-2 font-bold bg-stone-100 border-2 border-stone-900"
+                    onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+                    aria-label="メニュー"
+                >
+                    {isMobileMenuOpen ? '閉じる ✕' : 'メニュー ☰'}
+                </button>
+            </div>
+
+            {/* Mobile Menu Overlay */}
+            {isMobileMenuOpen && (
+                <div className="lg:hidden absolute top-full left-0 w-full bg-white border-b border-stone-900 py-4 px-6 flex flex-col gap-4 shadow-xl">
+                    {navLinks.map((item) => (
+                        <Link
+                            key={item.label}
+                            href={item.href}
+                            className="text-stone-900 text-lg font-bold py-3 border-b-2 border-stone-100"
+                            onClick={() => setIsMobileMenuOpen(false)}
+                        >
+                            {item.label}
+                        </Link>
+                    ))}
+                    <a
+                        href="tel:0120-XXX-XXX"
+                        className="flex items-center justify-center gap-2 w-full py-4 mt-4 bg-stone-100 text-slate-700 font-black border-2 border-slate-700"
+                    >
+                        📞 0120-XXX-XXX に電話する
+                    </a>
+                    <Link
+                        href="/contact"
+                        className="w-full py-4 bg-stone-900 text-white font-bold text-center border-b border-stone-900 active:border-b-0 active:translate-y-px"
+                        onClick={() => setIsMobileMenuOpen(false)}
+                    >
+                        無料お見積り・ご相談
+                    </Link>
+                </div>
+            )}
+        </header>
+    );
+}

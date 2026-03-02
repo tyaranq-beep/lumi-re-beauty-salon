@@ -1,1 +1,66 @@
-浩潰瑲删慥瑣映潲⁭爧慥瑣㬧਍浩潰瑲笠䤠獮慴牧浡素映潲⁭氧捵摩ⵥ敲捡❴഻ഊ挊湯瑳匠奔䥌呓⁓‽൛ †笠਍††††慮敭›丢湡≡ബ †††爠汯㩥∠牁⁴楄敲瑣牯Ⱒ਍††††灳捥慩瑬㩹∠諦醁蓦䖁臣讂菣隃菣辀臦龄苣ꦃ菣⊼ബ †††椠慭敧›栢瑴獰⼺椯慭敧⹳湵灳慬桳挮浯瀯潨潴ㄭㄶ㘶㌸㤶㔳㐰㌭慥攷愹㙤敦㽣畡潴昽牯慭♴楦㵴牣灯焦㠽∰ബ †††椠啧汲›⌢Ⱒ਍††††敲敳癲啥汲›⼢敲敳癲≥਍††ⱽ਍††ൻ †††渠浡㩥∠敋瑮≯ബ †††爠汯㩥∠潔⁰瑓汹獩≴ബ †††猠数楣污祴›ꆃ菣몂菣䖁菣䖁鷦龄苣ꞃ菣膃ⱅ਍††††浩条㩥∠瑨灴㩳⼯浩条獥甮獮汰獡⹨潣⽭桰瑯ⵯ㔱ㄴ㐶㌷㘷㠵ⴳ㤸㐳慡㍦㐴愸愿瑵㵯潦浲瑡昦瑩挽潲♰㵱〸Ⱒ਍††††杩牕㩬∠∣ബ †††爠獥牥敶牕㩬∠爯獥牥敶ഢ †素ബ †笠਍††††慮敭›夢歵≩ബ †††爠汯㩥∠瑓汹獩⁴ 潃潬楲瑳Ⱒ਍††††灳捥慩瑬㩹∠苣뎃菣䖁苣ꦃ菣뮃ꯩꪳ铦膖荅ꪃ菣袃菣뎃菣䖁ബ †††椠慭敧›栢瑴獰⼺椯慭敧⹳湵灳慬桳挮浯瀯潨潴ㄭ㠵㘰㠱㜶㔲ㄹ攭ㅢ〸ㅢ㥡㌷㽦畡潴昽牯慭♴楦㵴牣灯焦㠽∰ബ †††椠啧汲›⌢Ⱒ਍††††敲敳癲啥汲›⼢敲敳癲≥਍††ൽ崊഻ഊ攊灸牯⁴敤慦汵⁴畦据楴湯匠祴楬瑳⡳ ൻ †爠瑥牵⁮ന †††㰠敳瑣潩⁮摩∽瑳汹獩獴•汣獡乳浡㵥瀢⵹㐲戠ⵧ瑳湯ⵥ〱∰ാ †††††㰠楤⁶汣獡乳浡㵥洢硡眭㜭汸洠⵸畡潴瀠⵸∶ാ †††††††㰠楤⁶汣獡乳浡㵥琢硥⵴散瑮牥洠ⵢ㘱㸢਍††††††††††猼慰⁮汣獡乳浡㵥琢硥⵴瑳湯ⵥ〴‰牴捡楫杮嬭⸰攲嵭琠硥⵴獸甠灰牥慣敳洠ⵢ‴湩楬敮戭潬正映湯⵴慳獮㸢਍††††††††††††瑓汹獩獴਍††††††††††⼼灳湡ാ †††††††††㰠㉨挠慬獳慎敭∽整瑸㌭汸映湯⵴敳楲⁦潦瑮洭摥畩⁭整瑸猭慬整㠭〰㸢苣뾂苣ꪃ苣膃⽅㉨ാ †††††††㰠搯癩ാഊ †††††††㰠楤⁶汣獡乳浡㵥朢楲⁤摭机楲ⵤ潣獬㌭朠灡ㄭ′慭⵸⵷砵⁬硭愭瑵≯ാ †††††††††笠呓䱙卉協洮灡⠨瑳汹獩ⱴ椠硤 㸽⠠਍††††††††††††搼癩欠祥笽摩絸挠慬獳慎敭∽牧畯⁰汦硥映敬⵸潣⁬瑩浥⵳散瑮牥琠硥⵴散瑮牥㸢਍††††††††††††††搼癩挠慬獳慎敭∽⵷㠴栠㐭‸潲湵敤ⵤ畦汬漠敶晲潬⵷楨摤湥洠ⵢ‶敲慬楴敶朠慲獹慣敬嬭〲崥朠潲灵栭癯牥机慲獹慣敬〭琠慲獮瑩潩⵮污⁬畤慲楴湯㜭〰猠慨潤⵷杬㸢਍††††††††††††††††椼杭猠捲笽瑳汹獩⹴浩条絥愠瑬笽瑳汹獩⹴慮敭⁽汣獡乳浡㵥眢昭汵⁬⵨畦汬漠橢捥⵴潣敶⁲牧畯⵰潨敶㩲捳污ⵥ〱‵牴湡楳楴湯琭慲獮潦浲搠牵瑡潩⵮〷‰慥敳漭瑵•㸯਍††††††††††††††⼼楤㹶਍††††††††††††††格″汣獡乳浡㵥琢硥⵴汸映湯⵴敳楲⁦整瑸猭慬整㠭〰洠ⵢ∱笾瑳汹獩⹴慮敭㱽栯㸳਍††††††††††††††瀼挠慬獳慎敭∽整瑸砭⁳整瑸猭潴敮㔭〰甠灰牥慣敳琠慲正湩ⵧ楷敤瑳洠ⵢ∴笾瑳汹獩⹴潲敬㱽瀯ാ †††††††††††††㰠⁰汣獡乳浡㵥琢硥⵴浳琠硥⵴汳瑡ⵥ〶‰扭㘭映湯⵴慳獮㸢뻥辄臣릂苣ꒂ菣㪫戼⁲㸯獻祴楬瑳献数楣污祴㱽瀯ാഊ †††††††††††††㰠楤⁶汣獡乳浡㵥昢敬⁸慧⵰‴⵷畦汬樠獵楴祦挭湥整≲ാ †††††††††††††††㰠⁡牨晥笽瑳汹獩⹴敲敳癲啥汲⁽汣獡乳浡㵥瀢⵸‶祰㈭戠ⵧ瑳湯ⵥ〸‰整瑸眭楨整琠硥⵴獸琠慲正湩ⵧ楷敤⁲潨敶㩲杢猭潴敮㜭〰琠慲獮瑩潩⵮潣潬獲爠畯摮摥猭⁭桳摡睯洭≤ാ †††††††††††††††††膌遅鞁臣袺듧䖁਍††††††††††††††††⼼㹡਍††††††††††††††††愼栠敲㵦獻祴楬瑳椮啧汲⁽汣獡乳浡㵥瀢㈭戠牯敤⁲潢摲牥猭慬整㌭〰戠ⵧ桷瑩⁥整瑸猭慬整㘭〰栠癯牥琺硥⵴汳瑡ⵥ〹‰潨敶㩲潢摲牥猭慬整㤭〰琠慲獮瑩潩⵮潣潬獲爠畯摮摥猭⁭桳摡睯猭≭ാ †††††††††††††††††㰠湉瑳条慲⁭汣獡乳浡㵥眢㐭栠㐭•㸯਍††††††††††††††††⼼㹡਍††††††††††††††⼼楤㹶਍††††††††††††⼼楤㹶਍††††††††††⤩ൽ †††††††㰠搯癩ാ †††††㰠搯癩ാ †††㰠猯捥楴湯ാ †⤠഻紊਍
+import React from 'react';
+import { Instagram } from 'lucide-react';
+
+const STYLISTS = [
+    {
+        name: "Nana",
+        role: "Art Director",
+        specialty: "抜け感のあるボブ・透明感カラー",
+        image: "https://images.unsplash.com/photo-1616683693504-3ea7e9ad6fec?auto=format&fit=crop&q=80",
+        igUrl: "#",
+        reserveUrl: "/reserve"
+    },
+    {
+        name: "Kento",
+        role: "Top Stylist",
+        specialty: "メンズパーマ・束感ショート",
+        image: "https://images.unsplash.com/photo-1541647376583-8934aaf3448a?auto=format&fit=crop&q=80",
+        igUrl: "#",
+        reserveUrl: "/reserve"
+    },
+    {
+        name: "Yuki",
+        role: "Stylist / Colorist",
+        specialty: "インナーカラー・髪質改善トリートメント",
+        image: "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?auto=format&fit=crop&q=80",
+        igUrl: "#",
+        reserveUrl: "/reserve"
+    }
+];
+
+export default function Stylists() {
+    return (
+        <section id="stylists" className="py-24 bg-stone-100">
+            <div className="max-w-7xl mx-auto px-6">
+                <div className="text-center mb-16">
+                    <span className="text-stone-400 tracking-[0.2em] text-xs uppercase mb-4 inline-block font-sans">
+                        Stylists
+                    </span>
+                    <h2 className="text-3xl font-serif font-medium text-slate-800">スタイリスト</h2>
+                </div>
+
+                <div className="grid md:grid-cols-3 gap-12 max-w-5xl mx-auto">
+                    {STYLISTS.map((stylist, idx) => (
+                        <div key={idx} className="group flex flex-col items-center text-center">
+                            <div className="w-48 h-48 rounded-full overflow-hidden mb-6 relative grayscale-[20%] group-hover:grayscale-0 transition-all duration-700 shadow-lg">
+                                <img src={stylist.image} alt={stylist.name} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out" />
+                            </div>
+                            <h3 className="text-xl font-serif text-slate-800 mb-1">{stylist.name}</h3>
+                            <p className="text-xs text-stone-500 uppercase tracking-widest mb-4">{stylist.role}</p>
+                            <p className="text-sm text-slate-600 mb-6 font-sans">得意なスタイル:<br />{stylist.specialty}</p>
+
+                            <div className="flex gap-4 w-full justify-center">
+                                <a href={stylist.reserveUrl} className="px-6 py-2 bg-stone-800 text-white text-xs tracking-wider hover:bg-stone-700 transition-colors rounded-sm shadow-md">
+                                    指名して予約
+                                </a>
+                                <a href={stylist.igUrl} className="p-2 border border-slate-300 bg-white text-slate-600 hover:text-slate-900 hover:border-slate-900 transition-colors rounded-sm shadow-sm">
+                                    <Instagram className="w-4 h-4" />
+                                </a>
+                            </div>
+                        </div>
+                    ))}
+                </div>
+            </div>
+        </section>
+    );
+}

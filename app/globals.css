@@ -1,1 +1,138 @@
 @import "tailwindcss";
+
+@theme {
+  --color-stone-900: #1c1917;
+  --color-stone-800: #292524;
+  --color-stone-600: #57534e;
+  --color-stone-400: #a8a29e;
+  --color-stone-100: #f5f5f4;
+
+  --color-slate-900: #0f172a;
+  --color-slate-700: #334155;
+  --color-slate-500: #64748b;
+
+  /* ✨ Premium Accents */
+  --color-copper: #B87333;
+  --color-gold-accent: #C6A35D;
+  --color-gold-light: #DEC88A;
+
+  --font-serif: "Noto Serif JP", serif;
+  --font-sans: "Noto Sans JP", sans-serif;
+  --font-display: "Cormorant Garamond", "Noto Serif JP", serif;
+}
+
+@layer base {
+  body {
+    @apply bg-stone-100 text-stone-900 font-sans antialiased text-base md:text-lg;
+    position: relative;
+  }
+
+  /* Silk-like diagonal texture overlay */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    opacity: 0.04;
+    background-image:
+      repeating-linear-gradient(135deg,
+        #a8a29e 0px,
+        #a8a29e 1px,
+        transparent 1px,
+        transparent 12px);
+  }
+
+  body>* {
+    position: relative;
+    z-index: 1;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-serif text-stone-900 tracking-tight;
+  }
+}
+
+@layer utilities {
+  .solid-card {
+    @apply bg-white border border-stone-100 shadow-xl rounded-2xl overflow-hidden;
+  }
+
+  .solid-button {
+    @apply bg-stone-900 text-white px-8 py-4 rounded-md tracking-widest text-sm hover:bg-stone-800 transition-all;
+  }
+
+  /* Display font (Cormorant Garamond) */
+  .font-display {
+    font-family: "Cormorant Garamond", "Noto Serif JP", serif;
+  }
+
+  /* Gold decorative line */
+  .gold-divider {
+    display: block;
+    height: 1px;
+    background: linear-gradient(to right, transparent, #C6A35D, transparent);
+    margin: 0 auto;
+  }
+
+  /* ✨ Scroll Reveal Animation */
+  .reveal-on-scroll {
+    opacity: 0;
+    transform: translateY(28px);
+    transition: opacity 0.9s cubic-bezier(0.4, 0, 0.2, 1),
+      transform 0.9s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .reveal-on-scroll.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .reveal-delay-100 {
+    transition-delay: 100ms;
+  }
+
+  .reveal-delay-200 {
+    transition-delay: 200ms;
+  }
+
+  .reveal-delay-300 {
+    transition-delay: 300ms;
+  }
+
+  .reveal-delay-500 {
+    transition-delay: 500ms;
+  }
+
+  /* ✨ Mask Reveal Animation (clip-path) */
+  .reveal-mask {
+    clip-path: inset(0 100% 0 0);
+    transition: clip-path 1.2s cubic-bezier(0.77, 0, 0.175, 1);
+  }
+
+  .reveal-mask.is-visible {
+    clip-path: inset(0 0 0 0);
+  }
+
+  .reveal-mask-up {
+    clip-path: inset(100% 0 0 0);
+    transition: clip-path 1.2s cubic-bezier(0.77, 0, 0.175, 1);
+  }
+
+  .reveal-mask-up.is-visible {
+    clip-path: inset(0 0 0 0);
+  }
+
+  /* Custom Horizontal Scroll utility */
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
