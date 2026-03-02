@@ -10,11 +10,10 @@ export const metadata: Metadata = {
   description: '熟練のスタイリストが一人ひとりに寄り添い、魅力を最大限に引き出します。地域に愛される、くつろぎのプライベートサロン。',
   icons: {
     icon: [
-      { url: '/favicon.ico?v=6' },
-      { url: '/favicon-32.png?v=6', sizes: '32x32', type: 'image/png' },
+      { url: '/favicon_YWP.png' },
     ],
     apple: [
-      { url: '/favicon-192.png?v=6', sizes: '192x192', type: 'image/png' },
+      { url: '/favicon_YWP.png', sizes: '192x192', type: 'image/png' },
     ],
   },
 };
