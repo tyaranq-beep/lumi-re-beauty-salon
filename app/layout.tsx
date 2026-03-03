@@ -1,20 +1,11 @@
 import type { Metadata } from 'next';
 import './globals.css';
-import Header from '@/components/layout/Header';
-import Footer from '@/components/layout/Footer';
-import DemoBanner from '@/components/ui/DemoBanner';
-import ScrollReveal from '@/components/ui/ScrollReveal';
 
 export const metadata: Metadata = {
-  title: 'YWP Beauty | 心地よい空間で叶える、理想のヘアスタイル',
-  description: '熟練のスタイリストが一人ひとりに寄り添い、魅力を最大限に引き出します。地域に愛される、くつろぎのプライベートサロン。',
+  title: 'LUMIÈRE | 渋谷のプライベート美容室',
+  description: '洗練された技術で、新しい自分に出会う。一人のスタイリストが最後まで担当する、完全予約制のプライベートサロン。',
   icons: {
-    icon: [
-      { url: '/favicon.png?v=20260303' },
-    ],
-    apple: [
-      { url: '/favicon.png?v=20260303' },
-    ],
+    icon: '/favicon.png?v=20260303',
   },
 };
 
@@ -25,23 +16,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ja">
-      {/* 
-        Note: React 19 / Next 15 with Tailwind 4.
-        Add font links here or in CSS.
-      */}
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,300;1,400;1,600&family=Noto+Sans+JP:wght@400;500;700;900&family=Noto+Serif+JP:wght@400;600;700;900&display=swap" rel="stylesheet" />
       </head>
-      <body className="font-sans text-stone-900 bg-stone-100 antialiased pt-[76px] lg:pt-[84px] min-h-screen flex flex-col">
-        <ScrollReveal />
-        <Header />
-        <main className="flex-1">
-          {children}
-        </main>
-        <DemoBanner industry="美容室・サロン" />
-        <Footer />
+      <body className="antialiased selection:bg-stone-200">
+        {children}
       </body>
     </html>
   );
