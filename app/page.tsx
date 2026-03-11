@@ -775,10 +775,8 @@ const MobileCTA = () => (
 
 const DemoBanner = () => (
   <div className="w-full bg-amber-50 border-b border-amber-200 py-2.5 px-4 text-center z-[100] relative">
-    <p className="text-amber-800 text-xs leading-relaxed">
-      <span className="font-semibold">📋 デモサイトについて：</span>
-      このサイトはデモ用のサンプルです。デザイン・カラーはお客様のブランドに合わせてカスタマイズします。
-      掲載中の画像はすべてイメージ素材であり、実際のサービスではお客様ご提供の写真に差し替えます。
+    <p className="text-amber-800 text-xs sm:text-sm leading-relaxed font-medium">
+      デモサイトについて：このサイトはデモ用のサンプルです。デザイン・カラーはお客様のブランドに合わせてカスタマイズします。 掲載中の画像はすべてイメージ素材であり、実際のサービスではお客様ご提供の写真に差し替えます。
     </p>
   </div>
 );
