@@ -535,7 +535,7 @@ const Reviews = () => {
           <p className="text-stone-400 text-sm tracking-widest">お客様の声</p>
           <div className="flex items-center justify-center gap-1 mt-4">
             {[1, 2, 3, 4, 5].map((i) => (
-              <Star key={i} className="w-4 h-4 fill-amber-400 text-amber-400" />
+              <Star key={i} className="w-4 h-4 fill-indigo-400 text-indigo-400" />
             ))}
             <span className="text-stone-300 text-sm ml-2">Google平均 4.9 / 5.0</span>
           </div>
@@ -552,7 +552,7 @@ const Reviews = () => {
                 </div>
                 <div className="flex gap-0.5">
                   {[1, 2, 3, 4, 5].map((i) => (
-                    <Star key={i} className="w-3 h-3 fill-amber-400 text-amber-400" />
+                    <Star key={i} className="w-3 h-3 fill-indigo-400 text-indigo-400" />
                   ))}
                 </div>
               </div>
@@ -689,16 +689,16 @@ const BookingCTA = () => {
               追加する <ArrowRight className="w-3 h-3" />
             </span>
           </a>
-          <a href="tel:03-1234-5678" className="group border border-stone-700 p-8 text-center hover:border-white hover:bg-stone-800 transition-all duration-300">
+          <a href="tel:03-9876-5432" className="group border border-stone-700 p-8 text-center hover:border-white hover:bg-stone-800 transition-all duration-300">
             <Phone className="w-8 h-8 mx-auto text-stone-400 group-hover:text-white mb-4 transition-colors" />
             <h3 className="font-serif text-lg mb-2">お電話</h3>
             <p className="text-stone-400 text-xs mb-4 leading-relaxed">平日 11:00〜21:00<br />土日祝 10:00〜20:00</p>
-            <span className="font-serif text-lg">03-1234-5678</span>
+            <span className="font-serif text-lg">03-9876-5432</span>
           </a>
         </div>
         <p className="text-center text-stone-500 text-xs">※ 当日予約のご対応は、お電話にてお問い合わせください。</p>
       </div>
-    </section>
+    </section >
   );
 };
 
@@ -736,13 +736,16 @@ const Footer = () => {
               〒150-0002<br />
               東京都渋谷区渋谷2-1-1<br />
               ルミエールビル2F<br /><br />
-              03-1234-5678<br />
+              03-9876-5432<br />
               平日 11:00-21:00 / 土日祝 10:00-20:00
             </p>
           </div>
         </div>
         <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] text-stone-600 uppercase tracking-widest text-center md:text-left">
-          <p>© {year} LUMIÈRE. All Rights Reserved.</p>
+          <div className="flex flex-col md:flex-row items-center gap-4 md:gap-8">
+            <p>© {year} LUMIÈRE. All Rights Reserved.</p>
+            <a href="https://ywp-digital.vercel.app/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">PRODUCED BY YWP DIGITAL</a>
+          </div>
           <div className="flex gap-8">
             <a href="#" className="hover:text-stone-400 transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-stone-400 transition-colors">Terms of Use</a>
@@ -755,7 +758,7 @@ const Footer = () => {
 
 const MobileCTA = () => (
   <div className="fixed bottom-0 left-0 w-full z-50 md:hidden flex border-t border-stone-200 bg-white/90 backdrop-blur-md">
-    <a href="tel:03-1234-5678" className="flex-1 py-4 flex flex-col items-center justify-center border-r border-stone-100">
+    <a href="tel:03-9876-5432" className="flex-1 py-4 flex flex-col items-center justify-center border-r border-stone-100">
       <Phone className="w-4 h-4 mb-1 text-stone-900" />
       <span className="text-[9px] font-bold text-stone-600">CALL</span>
     </a>

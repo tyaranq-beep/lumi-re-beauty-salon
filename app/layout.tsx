@@ -5,7 +5,10 @@ export const metadata: Metadata = {
   title: 'LUMIÈRE | 渋谷のプライベート美容室',
   description: '洗練された技術で、新しい自分に出会う。一人のスタイリストが最後まで担当する、完全予約制のプライベートサロン。',
   icons: {
-    icon: '/favicon.png?v=20260303',
+    icon: [
+      { url: '/favicon.png', type: 'image/png' },
+      { url: '/favicon.ico', type: 'image/x-icon' },
+    ],
   },
 };
 
