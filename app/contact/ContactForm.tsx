@@ -68,7 +68,7 @@ export default function ContactForm() {
                     required
                     rows={6}
                     className="w-full px-4 py-3 bg-white border border-stone-900 focus:outline-none focus:border-slate-700 transition-colors font-bold text-lg resize-none leading-relaxed"
-                    placeholder="「外壁のひび割れが気になる」「屋根の点検をお願いしたい」「見積もりが欲しい」など、どんなことでもお気軽にご記入ください。"
+                    placeholder="「メニューについて詳しく知りたい」「予約の空き状況を確認したい」など、どんなことでもお気軽にご記入ください。"
                     value={formData.message}
                     onChange={(e) => setFormData({ ...formData, message: e.target.value })}
                 ></textarea>

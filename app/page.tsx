@@ -627,10 +627,10 @@ const Access = () => {
     { id: "03", title: "緑の看板が目印", desc: "「ルミエールビル」の看板が見えたら到着です。2Fへお上りください。", img: "/images/atm-detail.png" },
     { id: "04", title: "エレベーターで2Fへ", desc: "エレベーターまたは階段で2Fへ。木製のドアを開けるとサロンです。", img: "/images/atm-reception.png" }
 =======
-    { id: "01", title: "渋谷駅 宮益坂口 を出る", desc: "JR・地下鉄「渋谷駅」の宮益坂口（東口）を出てください。", img: "/images/access-01.png" },
-    { id: "02", title: "宮益坂を直進（約2分）", desc: "宮益坂を上りながら直進。コンビニを右手に進んでください。", img: "/images/access-02.png" },
-    { id: "03", title: "緑の看板が目印", desc: "「ルミエールビル」の看板が見えたら到着です。2Fへお上りください。", img: "/images/access-03.png" },
-    { id: "04", title: "エレベーターで2Fへ", desc: "エレベーターまたは階段で2Fへ。木製のドアを開けるとサロンです。", img: "/images/access-04.png" }
+    { id: "01", title: "最寄り駅 出口 を出る", desc: "JR・地下鉄「最寄り駅」の出口を出てください。", img: "/images/gallery-short.png" },
+    { id: "02", title: "坂道を直進", desc: "駅から直進。コンビニを右手に進んでください。", img: "/images/atm-interior.png" },
+    { id: "03", title: "看板が目印", desc: "「サロン」の看板が見えたら到着です。2Fへお上りください。", img: "/images/atm-detail.png" },
+    { id: "04", title: "エレベーターで2Fへ", desc: "エレベーターまたは階段で2Fへ。木製のドアを開けるとサロンです。", img: "/images/atm-reception.png" }
 >>>>>>> 2ad3f71e77291e0d2915f4aa6803592cdd59e694
   ];
 
