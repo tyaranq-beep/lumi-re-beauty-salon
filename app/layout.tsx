@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'LUMIÈRE | 渋谷のプライベート美容室',
+  title: 'LUMIÈRE | 〇〇のプライベート美容室',
   description: '洗練された技術で、新しい自分に出会う。一人のスタイリストが最後まで担当する、完全予約制のプライベートサロン。',
   icons: {
     icon: [

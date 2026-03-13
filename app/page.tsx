@@ -621,7 +621,7 @@ const News = () => {
 
 const Access = () => {
   const steps = [
-    { id: "01", title: "渋谷駅 宮益坂口 を出る", desc: "JR・地下鉄「渋谷駅」の宮益坂口（東口）を出てください。", img: "/images/gallery-short.png" },
+    { id: "01", title: "最寄り駅 出口 を出る", desc: "JR・地下鉄「最寄り駅」の出口を出てください。", img: "/images/gallery-short.png" },
     { id: "02", title: "宮益坂を直進（約2分）", desc: "宮益坂を上りながら直進。コンビニを右手に進んでください。", img: "/images/atm-interior.png" },
     { id: "03", title: "緑の看板が目印", desc: "「ルミエールビル」の看板が見えたら到着です。2Fへお上りください。", img: "/images/atm-detail.png" },
     { id: "04", title: "エレベーターで2Fへ", desc: "エレベーターまたは階段で2Fへ。木製のドアを開けるとサロンです。", img: "/images/atm-reception.png" }
@@ -637,7 +637,7 @@ const Access = () => {
           <p className="text-stone-400 text-xs tracking-[0.3em]">駅からの道案内</p>
           <p className="mt-4 text-stone-600 text-sm">
             <MapPin className="inline w-3.5 h-3.5 mr-1 text-stone-400" />
-            渋谷駅より徒歩3分
+            最寄り駅より徒歩3分
           </p>
         </div>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
