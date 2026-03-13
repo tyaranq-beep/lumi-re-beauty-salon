@@ -1,9 +1,6 @@
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
- */
+"use client";
 
-// Build Version: 2026.03.14.0305 - Final Anonymization Clean
+// Build Version: 2026.03.14.0320 - FIXED DEPLOYMENT
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import {
