@@ -96,7 +96,7 @@ const Hero = () => {
         <div className="absolute inset-0 bg-gradient-to-b from-stone-900/70 via-stone-900/40 to-stone-900/75"></div>
       </div>
       <div className="relative z-10 text-center px-6 max-w-4xl mx-auto mt-12">
-        <p className="text-white/60 text-xs tracking-[0.35em] uppercase mb-8 font-medium">Private Beauty Salon — Tokyo Shibuya</p>
+        <p className="text-white/60 text-xs tracking-[0.35em] uppercase mb-8 font-medium">Private Beauty Salon — 〇〇 Station</p>
         <h1 className="font-serif text-5xl md:text-7xl lg:text-8xl text-white leading-tight mb-8">
           日常を忘れ、<br /><span className="italic">新しい自分</span>に出会う場所。
         </h1>
@@ -638,7 +638,7 @@ const Access = () => {
     <section id="access" className="py-32 md:py-40 bg-stone-50 scroll-mt-24">
       <div className="container mx-auto px-6 md:px-12 max-w-6xl">
         <div className="text-center mb-20">
-          <p className="text-stone-400 text-xs tracking-[0.4em] uppercase mb-4">From Shibuya Station</p>
+          <p className="text-stone-400 text-xs tracking-[0.4em] uppercase mb-4">From Nearest Station</p>
           <h2 className="font-serif text-4xl md:text-5xl text-stone-900 tracking-[0.1em] mb-4">Access</h2>
           <div className="w-12 h-px bg-stone-400 mx-auto mb-6"></div>
           <p className="text-stone-400 text-xs tracking-[0.3em]">駅からの道案内</p>

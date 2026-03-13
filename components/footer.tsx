@@ -58,16 +58,16 @@ export function Footer() {
                   className="mr-3 mt-0.5 shrink-0 text-stone-500"
                 />
                 <span>
-                  〒150-0001
+                  〒000-0000
                   <br />
-                  東京都渋谷区神宮前1-2-3
+                  〇〇県〇〇市〇〇町1-2-3
                   <br />
                   ルミエールビル 2F
                 </span>
               </li>
               <li className="flex items-center">
                 <Phone size={18} className="mr-3 shrink-0 text-stone-500" />
-                <span>03-1234-5678</span>
+                <span>03-0000-0000</span>
               </li>
               <li className="flex items-start">
                 <Clock
