@@ -653,7 +653,7 @@ const Access = () => {
           ))}
         </div>
         <div className="mt-14 text-center">
-          <a href="https://maps.google.com/?q=%E6%B8%8B%E8%B0%B7%E5%8C%BA%E6%B8%8B%E8%B0%B72-1-1" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 border border-stone-900 text-stone-900 px-10 py-4 text-xs tracking-[0.25em] uppercase hover:bg-stone-900 hover:text-white transition-colors duration-300">
+          <a href="https://maps.google.com/?q=%E2%97%8B%E2%97%8B%E7%9C%8C%E2%97%8B%E2%97%8B%E5%B8%82" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 border border-stone-900 text-stone-900 px-10 py-4 text-xs tracking-[0.25em] uppercase hover:bg-stone-900 hover:text-white transition-colors duration-300">
             <MapPin className="w-3.5 h-3.5" />
             Google マップで開く
           </a>
@@ -689,11 +689,11 @@ const BookingCTA = () => {
               追加する <ArrowRight className="w-3 h-3" />
             </span>
           </a>
-          <a href="tel:03-9876-5432" className="group border border-stone-700 p-8 text-center hover:border-white hover:bg-stone-800 transition-all duration-300">
+          <a href="tel:03-0000-0000" className="group border border-stone-700 p-8 text-center hover:border-white hover:bg-stone-800 transition-all duration-300">
             <Phone className="w-8 h-8 mx-auto text-stone-400 group-hover:text-white mb-4 transition-colors" />
             <h3 className="font-serif text-lg mb-2">お電話</h3>
             <p className="text-stone-400 text-xs mb-4 leading-relaxed">平日 11:00〜21:00<br />土日祝 10:00〜20:00</p>
-            <span className="font-serif text-lg">03-9876-5432</span>
+            <span className="font-serif text-lg">03-0000-0000</span>
           </a>
         </div>
         <p className="text-center text-stone-500 text-xs">※ 当日予約のご対応は、お電話にてお問い合わせください。</p>
@@ -733,10 +733,10 @@ const Footer = () => {
           <div>
             <h3 className="text-white text-xs tracking-[0.3em] uppercase mb-8">Address</h3>
             <p className="text-xs leading-relaxed text-stone-400">
-              〒150-0002<br />
-              東京都渋谷区渋谷2-1-1<br />
-              ルミエールビル2F<br /><br />
-              03-9876-5432<br />
+              〒000-0000<br />
+              〇〇県〇〇市〇〇町1-2-3<br />
+              〇〇ビル2F<br /><br />
+              03-0000-0000<br />
               平日 11:00-21:00 / 土日祝 10:00-20:00
             </p>
           </div>
@@ -758,7 +758,7 @@ const Footer = () => {
 
 const MobileCTA = () => (
   <div className="fixed bottom-0 left-0 w-full z-50 md:hidden flex border-t border-stone-200 bg-white/90 backdrop-blur-md">
-    <a href="tel:03-9876-5432" className="flex-1 py-4 flex flex-col items-center justify-center border-r border-stone-100">
+    <a href="tel:03-0000-0000" className="flex-1 py-4 flex flex-col items-center justify-center border-r border-stone-100">
       <Phone className="w-4 h-4 mb-1 text-stone-900" />
       <span className="text-[9px] font-bold text-stone-600">CALL</span>
     </a>
